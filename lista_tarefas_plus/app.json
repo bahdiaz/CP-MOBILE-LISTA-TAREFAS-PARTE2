@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Lista Tarefas Plus",
+    "slug": "lista-tarefas-plus",
+    "scheme": "listaplus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.example.listatarefasplus"
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/notification-icon.png",
+          "color": "#000000"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "00000000-0000-0000-0000-000000000000"
+      },
+      "googleClientId": "166877844500-sqfgvnu8gu4qn8cg1d8rhretmtpmglf8.apps.googleusercontent.com"
+    }
+  }
+}
