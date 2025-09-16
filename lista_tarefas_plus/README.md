@@ -58,5 +58,3 @@ service cloud.firestore {
 - `src/screens/`: SignIn, TaskList, TaskForm, Settings
 - `src/query.js`: QueryClient
 
-## Vídeo
-Grave um vídeo rápido mostrando: login, troca de idioma, tema, CRUD em tempo real, notificação agendada e frase carregada no header.
