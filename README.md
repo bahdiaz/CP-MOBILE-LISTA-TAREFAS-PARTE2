@@ -1,5 +1,10 @@
 # Lista Tarefas Plus 📱⚡
 
+RM'S
+BÁRBARA DIAS SANTOS - RM556974
+NATASHA LOPES - RM554816
+JUAN PABLO RUIZ SOUZA - RM557727
+
 [![Expo](https://img.shields.io/badge/Expo-SDK%2051-000?logo=expo)](https://expo.dev/)
 [![React Native](https://img.shields.io/badge/React%20Native-0.74-61dafb?logo=react)](https://reactnative.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore-ffca28?logo=firebase)](https://firebase.google.com/)
